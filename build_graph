@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {
+      "version": "4.0.0-0.7",
+      "payload": "quay.io/openshift-release-dev/ocp-release:4.0.0-0.7",
+      "metadata": {"description": "Beta 2"}
+    },
+    {
+      "version": "4.0.0-0.nightly-2019-03-06-074438",
+      "payload": "registry.svc.ci.openshift.org/ocp/release:4.0.0-0.nightly-2019-03-06-074438"
+    }
+  ],
+  "edges": [
+    [
+      0, 
+      1
+    ]
+  ]
+}
