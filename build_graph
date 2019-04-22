@@ -3,11 +3,12 @@
     {
       "version": "4.0.0-0.nightly-2019-03-23-222829",
       "payload": "registry.svc.ci.openshift.org/ocp/release:4.0.0-0.nightly-2019-03-23-222829",
-      "metadata": {"description": "Beta 2"}
+      "metadata": {"description": "source version"}
     },
     {
       "version": "4.0.0-0.nightly-2019-03-25-154140",
-      "payload": "registry.svc.ci.openshift.org/ocp/release:4.0.0-0.nightly-2019-03-25-154140"
+      "payload": "registry.svc.ci.openshift.org/ocp/release:4.0.0-0.nightly-2019-03-25-154140",
+      "metadata": {"description": "target version"}
     }
   ],
   "edges": [
